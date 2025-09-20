@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <section className="hero">
       <div className="hero__inner">
-        <Image src="/AIrabbit-logo.png" alt="AIrabbit" width={120} height={120} className="hero__logo" priority />
+        <Image src="/airabbit-logo.png" alt="AIrabbit" width={120} height={120} className="hero__logo" priority />
         <h1>에어래빗 감정형 AGI 연구/개발</h1>
         <p>
           AIrabbit은 “감성 + 이성”의 균형을 통해, 학습·창작·돌봄의 순간을 따뜻하게 바꾸는 

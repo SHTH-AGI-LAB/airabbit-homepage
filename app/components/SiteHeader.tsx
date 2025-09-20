@@ -4,7 +4,7 @@ export default function SiteHeader() {
   return (
     <header className="home__nav">
       <div className="home__brand">
-        <img src="/AIrabbit-logo.png" alt="AIrabbit" width={40} height={40} />
+        <img src="/airabbit-logo.png" alt="AIrabbit" width={40} height={40} />
         <span>AIrabbit</span>
       </div>
      <nav className="home__links">
