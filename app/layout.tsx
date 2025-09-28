@@ -1,5 +1,5 @@
 import "./globals.css";
-import SiteHeader from "./components/SiteHeader";
+import SiteHeader from "./components/SiteHeaderV2";
 
 export const metadata = {
   title: "AIrabbit — 감정형 AGI 연구회사",
